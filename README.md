@@ -17,6 +17,7 @@
 
 - Download Tool On Your Device.
 - Select Your Malware Support All Types.
+- Don't Obfuscat Your Malware To Build.
 - Build Your Rootkit = Enjoy
 - Join Discord https://discord.gg/wQyzgMDgJB
 
