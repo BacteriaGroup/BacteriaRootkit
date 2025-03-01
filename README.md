@@ -2,7 +2,7 @@
   <img src="https://github.com/BacteriaGroup/RootkitBuilder/blob/main/Exmple.png" alt="Image">
 </p>
 
-# Problem Rootkit
+# Bacteria Rootkit
 ## Features
 
 - **Build**: Select Malware And Build.
